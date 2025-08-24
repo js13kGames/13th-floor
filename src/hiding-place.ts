@@ -9,3 +9,4 @@ export class HidingPlace {
     this.cameraRotation = cameraRotation;
   }
 }
+//@alcore #one
